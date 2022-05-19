@@ -1,0 +1,4 @@
+outs:
+- md5: 8d53b17cc4aa365402e7aca849d5fb91
+  size: 2600008
+  path: cifs.csv
